@@ -35,26 +35,26 @@ head:
 # 封面 cover 设置
 cover: 
 
-  # 显示在最上方 cover 处的站点名称
-  sitename: Zolalala
+  # 显示在最上方 cover v处的站点名称
+  sitename: ❤ Zolalala ❤ 
 
   # 若设置 logo，则优先使用 logo 代替 sitename
   logo: 
   
   # logo 下方的一句话介绍
-  description: 
+  description: 🐷🐷🐷🐷
   
   # cover 按钮菜单，通常用于站内导航
   menu: 
-    - name: 首页
+    - name: 首页😘
       url: /
-    - name: 标签
+    - name: 标签🐷
       url: /tags/
-    - name: 归档
+    - name: 归档😝
       url: /archives/
-    - name: 友链
+    - name: 友链😍
       url: /friends/
-    - name: Page
+    - name: Page😁
       url: /page/
 
 
