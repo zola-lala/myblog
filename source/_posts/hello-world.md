@@ -1,4 +1,4 @@
 ---
-title: Hello World
+title: 收集
 ---
 Welcome
