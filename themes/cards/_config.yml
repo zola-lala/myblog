@@ -36,13 +36,13 @@ head:
 cover: 
 
   # 显示在最上方 cover 处的站点名称
-  sitename: Demo
+  sitename: Zolalala
 
   # 若设置 logo，则优先使用 logo 代替 sitename
   logo: 
   
   # logo 下方的一句话介绍
-  description: Hi, nice to meet you!
+  description: 
   
   # cover 按钮菜单，通常用于站内导航
   menu: 
@@ -91,8 +91,8 @@ meta:
   
   # 默认文章作者（可在front-matter中覆盖）
   author:
-    name: ChrAlpha
-    url: https://chralpha.com
+    name: zolala
+    url: 
   
   # 文章创建日期
   date:
